@@ -4,8 +4,8 @@ imageurl: images/header-default.png
 layout: subpage
 published: true
 ---
+![banner_SmarterTogether-01.png]({{site.baseurl}}/images/banner_SmarterTogether-01.png)
 
-![GA ]({{site.baseurl}}/images/banner_SmarterTogether-01.png)
 
 
 ### SMARTER TOGETHER's first General Assembly is taking place on 15-17 February 2017 in Munich!
@@ -28,4 +28,4 @@ It is through these thematic areas that the work of SMARTER TOGETHER is divided 
 
 SMARTER TOGETHER is dedicated to finding ways to improve urban life; not just for one city or region, but everywhere. The programme is focused on experimenting, measuring and replicating positive results across various urban environments. Day three of the General Assembly will focus on monitoring and evaluating the project and all of its work. A project Wiki and standardised best practices will be developed and later disseminated, and a Replication Task Force will set about the work of recreating successes from one city to the next. 
 
-The SMARTER TOGETHER General Assembly is a way to monitor the program and guide its development while at the same time deepening the connection between participating areas and creating conditions to replicate the improvements made in urban districts.  
+The SMARTER TOGETHER General Assembly is a way to monitor the program and guide its development while at the same time deepening the connection between participating areas and creating conditions to replicate the improvements made in urban districts.
